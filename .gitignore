@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+logs/*.csv
+models/*.onnx
+models/*.onnx.data
+.pytest_cache/
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
